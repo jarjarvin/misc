@@ -5,10 +5,10 @@
 
 ### Token Counts (using `gpt-4o-mini`)
 
-Original JSON: 98 tokens 
-Short-key JSON (CSF): 93 tokens
-CSF Delimited String: 65 tokens
-TOON Representation: 106 tokens
+- Original JSON: 98 tokens 
+- Short-key JSON (CSF): 93 tokens
+- CSF Delimited String: 65 tokens
+- TOON Representation: 106 tokens
 
 
 ### Overview
@@ -28,4 +28,5 @@ Encoding rules:
 - Roles are numeric: 0 = admin, 1 = editor 
 
 Please decode the data into a readable JSON structure before reasoning.
+
 
